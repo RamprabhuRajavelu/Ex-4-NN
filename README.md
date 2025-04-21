@@ -1,6 +1,6 @@
 
-<H3>NAME:RANJAN KUMAR G</H3>
-<H3> REGISTER NO:212223240138 </H3>
+<H3>NAME:RAMPRABHU R G</H3>
+<H3> REGISTER NO:212222040129 </H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:19/04/2025</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
